@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/clientGymApp/static/css/main.8a1f1476.css",
+    "main.js": "/clientGymApp/static/js/main.739a1ff1.js",
+    "static/media/bg.png": "/clientGymApp/static/media/bg.aa9add829b9ddaab15ca.png",
+    "static/media/woman.png": "/clientGymApp/static/media/woman.afe487a6399eecfa1aa7.png",
+    "static/media/img4.png": "/clientGymApp/static/media/img4.3f2b41a180f0b0e9b539.png",
+    "static/media/img3.png": "/clientGymApp/static/media/img3.76cafac0275672eee799.png",
+    "static/media/img1.png": "/clientGymApp/static/media/img1.a5400d538dc08bb9c485.png",
+    "static/media/battle-rope.png": "/clientGymApp/static/media/battle-rope.f0e838feb90e5240e67b.png",
+    "static/media/fitness.png": "/clientGymApp/static/media/fitness.40c4aecb2995e4d21467.png",
+    "static/media/img2.png": "/clientGymApp/static/media/img2.f49950ea6082a8572af4.png",
+    "static/media/body-pump.png": "/clientGymApp/static/media/body-pump.db655530d82349eb4cbb.png",
+    "static/media/yoga.png": "/clientGymApp/static/media/yoga.e95806de96273a0c68d4.png",
+    "static/media/full-body.png": "/clientGymApp/static/media/full-body.88337db51a52afbb3ceb.png",
+    "static/media/resistance.png": "/clientGymApp/static/media/resistance.011df5b9669edc4f464d.png",
+    "static/media/boxing.png": "/clientGymApp/static/media/boxing.04062eac3922c5d3517d.png",
+    "static/media/calendar.svg": "/clientGymApp/static/media/calendar.316d9eb39b360280ca6b5027f5462a62.svg",
+    "static/media/price.svg": "/clientGymApp/static/media/price.99fc6d830c98a274d69675502dec0aac.svg",
+    "static/media/users-icn.svg": "/clientGymApp/static/media/users-icn.1c1181836b52f949c1de5db01fcd212e.svg",
+    "static/media/community-icn.svg": "/clientGymApp/static/media/community-icn.6ccf103bf065aaec1be8ea4cddcb9511.svg",
+    "index.html": "/clientGymApp/index.html",
+    "static/media/chevron-right.svg": "/clientGymApp/static/media/chevron-right.54d3bc1c0ea6ec072a21.svg",
+    "static/media/bg.svg": "/clientGymApp/static/media/bg.e3dec2c236c3afaf8c8a.svg",
+    "static/media/chevron-left.svg": "/clientGymApp/static/media/chevron-left.7d0e8c34fcab2fb5f0bc.svg",
+    "static/media/logo.svg": "/clientGymApp/static/media/logo.2c8d7aa89ef565a44cd5efef8103ad72.svg",
+    "main.8a1f1476.css.map": "/clientGymApp/static/css/main.8a1f1476.css.map",
+    "main.739a1ff1.js.map": "/clientGymApp/static/js/main.739a1ff1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a1f1476.css",
+    "static/js/main.739a1ff1.js"
+  ]
+}

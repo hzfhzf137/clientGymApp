@@ -1,0 +1,10 @@
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- "GYM" text in white -->
+  <text x="10" y="35" fill="white" font-size="36" font-family="Arial, sans-serif" font-weight="bold">
+    GYM
+  </text>
+  <!-- "do it" text in red with stronger boldness and space added -->
+  <text x="95" y="35" fill="red" font-size="24" font-family="Arial, sans-serif" font-weight="950">
+    doit
+  </text>
+</svg>

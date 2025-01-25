@@ -4,7 +4,8 @@ import React from 'react';
 import { workouts } from '../data';
 
 // import component
-import { WorkoutSlider } from './index';
+// import { WorkoutSlider } from './index';
+import WorkoutSlider from "../components/WorkoutSlider";
 
 const Workouts = () => {
   const { icon, title } = workouts;

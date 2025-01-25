@@ -4,8 +4,10 @@ import React, { useEffect, useState } from "react";
 import { header } from "../data";
 
 // import compenent
-import { Nav, NavMobile } from "./index";
-
+// import { Nav, NavMobile } from "./index";
+import Nav from '../components/Nav';
+import NavMobile from "../components/NavMobile";
+ 
 // import icons
 import { RiMenu4Fill, RiCloseFill } from "react-icons/ri";
 

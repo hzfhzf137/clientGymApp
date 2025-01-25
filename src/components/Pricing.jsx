@@ -4,7 +4,8 @@ import React from 'react';
 import { pricing } from '../data';
 
 // import component
-import { PlanList } from './index';
+// import { PlanList } from './index';
+import PlanList from "../components/PlanList";
 
 const Pricing = () => {
   const { icon, plans, title } = pricing;

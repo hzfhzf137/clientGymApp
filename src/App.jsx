@@ -6,7 +6,17 @@ import Aos from 'aos';
 import 'aos/dist/aos.css';
 
 // import components
-import { About, Banner, Footer, Header, Pricing, Workouts } from "./components";
+// import { About, Banner, Footer, Header, Pricing, Workouts } from "./components";
+import About from "../src/components/About";
+import Banner from "../src/components/Banner";
+import Footer from "../src/components/Footer";
+import Header from "../src/components/Header";
+import Pricing from "../src/components/Pricing";
+import Workouts from "../src/components/Workouts";
+
+
+
+
 
 const App = () => {
   // aos initialization

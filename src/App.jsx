@@ -10,7 +10,7 @@ import 'aos/dist/aos.css';
 import About from "../src/components/About";
 import Banner from "../src/components/Banner";
 import Footer from "../src/components/Footer";
-// import Header from "../src/components/Header";
+import Header from "../src/components/Header";
 import Pricing from "../src/components/Pricing";
 import Workouts from "../src/components/Workouts";
 
@@ -27,7 +27,7 @@ const App = () => {
 
   return (
     <div className="max-w-[1440px] mx-auto bg-page overflow-hidden relative">
-      {/* <Header /> */}
+      <Header />
       <section id="home">
         <Banner />
       </section>

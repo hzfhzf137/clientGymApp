@@ -1,10 +1,9 @@
-import React from 'react';
+import React from "react";
 
 // import data
-import { pricing } from '../data';
+import { pricing } from "../data";
 
-// import component
-// import { PlanList } from './index';
+// import components
 import PlanList from "../components/PlanList";
 
 const Pricing = () => {

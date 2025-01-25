@@ -45,22 +45,6 @@ const NavMobile = ({ navMobile, setNavMobile }) => {
           </li>
         ))}
       </ul>
-
-      {/* Buttons */}
-      <div className="flex justify-center gap-4 mt-6">
-        <button
-          onClick={handleClose} // Close menu on button click
-          className="px-6 py-2 text-white border border-white rounded-md transition-all duration-300 hover:bg-red-600 hover:border-red-600"
-        >
-          Log in
-        </button>
-        <button
-          onClick={handleClose} // Close menu on button click
-          className="px-6 py-2 text-white bg-red-600 rounded-md transition-all duration-300 hover:bg-primary-300"
-        >
-          Sign Up
-        </button>
-      </div>
     </nav>
   );
 };

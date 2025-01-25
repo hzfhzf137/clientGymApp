@@ -1,6 +1,5 @@
 import React from 'react';
 
-// Example navigation data
 const nav = [
   { name: 'Home', href: '#home' },
   { name: 'About', href: '#about' },
@@ -16,7 +15,7 @@ const Nav = () => {
           <li key={index}>
             <a
               className="text-white text-body-sm px-4 py-1 rounded-md transition-all duration-300 hover:bg-red-600 hover:text-neutral-900"
-              href={item.href} // Use href for anchor scrolling
+              href={item.href}
             >
               {item.name}
             </a>

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/clientGymApp/static/css/main.8a1f1476.css",
-    "main.js": "/clientGymApp/static/js/main.739a1ff1.js",
+    "main.js": "/clientGymApp/static/js/main.fd8d21ac.js",
     "static/media/bg.png": "/clientGymApp/static/media/bg.aa9add829b9ddaab15ca.png",
     "static/media/woman.png": "/clientGymApp/static/media/woman.afe487a6399eecfa1aa7.png",
     "static/media/img4.png": "/clientGymApp/static/media/img4.3f2b41a180f0b0e9b539.png",
@@ -25,10 +25,10 @@
     "static/media/chevron-left.svg": "/clientGymApp/static/media/chevron-left.7d0e8c34fcab2fb5f0bc.svg",
     "static/media/logo.svg": "/clientGymApp/static/media/logo.2c8d7aa89ef565a44cd5efef8103ad72.svg",
     "main.8a1f1476.css.map": "/clientGymApp/static/css/main.8a1f1476.css.map",
-    "main.739a1ff1.js.map": "/clientGymApp/static/js/main.739a1ff1.js.map"
+    "main.fd8d21ac.js.map": "/clientGymApp/static/js/main.fd8d21ac.js.map"
   },
   "entrypoints": [
     "static/css/main.8a1f1476.css",
-    "static/js/main.739a1ff1.js"
+    "static/js/main.fd8d21ac.js"
   ]
 }

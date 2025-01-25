@@ -179,7 +179,7 @@ export const footer = {
       <p>Designed and developed by</p>
       <p>Huzaifa Mahmood </p>
       <p>
-        <a href="https://huzaifamahmood.online" target="_blank" rel="noopener noreferrer" className='text-red-400'>
+        <a href="https://pph.me/huzaifamahmood" target="_blank" rel="noopener noreferrer" className='text-red-400'>
         For contact click here.
         </a>
       </p>

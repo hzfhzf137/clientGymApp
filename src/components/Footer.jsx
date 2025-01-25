@@ -13,7 +13,7 @@ const Footer = () => {
         <img src={logo} alt="GYM Logo" />
         </button>        
         {/* copyright text on the right */}
-        <div className="text-neutral-300 text-sm text-right md:text-left">
+        <div className="text-neutral-300 text-xs text-right md:text-left ">
           {copyrightText}
         </div>
       </div>

@@ -4,10 +4,9 @@ import React, { useEffect, useState } from "react";
 import { header } from "../data";
 
 // import compenent
-// import { Nav, NavMobile } from "./index";
 import Nav from '../components/Nav';
 import NavMobile from "../components/NavMobile";
- 
+
 // import icons
 import { RiMenu4Fill, RiCloseFill } from "react-icons/ri";
 
@@ -24,6 +23,7 @@ const Header = () => {
       window.scrollY > 80 ? setIsAvtive(true) : setIsAvtive(false);
     });
   }, []);
+
   return (
     <header
       className={`${isActive ? "bg-neutral-500 py-[16px]" : "bg-transparent py-[20px]"
@@ -35,14 +35,14 @@ const Header = () => {
         <img src={logo} alt="logo" className="h-[30px]" />
       </button>
 
-      {/* nav - initally hidden - show on desktop */}
+      {/* nav - initially hidden - show on desktop */}
       <Nav />
-      {/* btns - initally hidden - show on desktop */}
-      <div className="hidden lg:flex  space-x-4">
+      {/* btns - initially hidden - show on desktop */}
+      <div className="hidden lg:flex space-x-4">
         <button className="btn btn-sm text-white">Log in </button>
         <button className="btn btn-sm bg-red-600 text-white">Sign in</button>
       </div>
-      {/* navmobile btn open and close -hidden on desktop*/}
+      {/* nav mobile btn open and close - hidden on desktop */}
       {!navMobile ? (
         <div
           className="lg:hidden absolute right-4 cursor-pointer"
@@ -59,8 +59,8 @@ const Header = () => {
         </div>
       )}
 
-      {/* nav mobile  - hide on desktop */}
-      <NavMobile navMobile={navMobile} />
+      {/* nav mobile - hide on desktop */}
+      <NavMobile navMobile={navMobile} setNavMobile={setNavmobile} />
     </header>
   );
 };
